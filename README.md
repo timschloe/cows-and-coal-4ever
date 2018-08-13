@@ -11,8 +11,11 @@ Develop a rapid prototype decentral climate finance transaction using cryptograp
  
 ## Team
 Existing Team
+
 Alstair (founder, coordination and support)
+
 Tim (Chair)
+
 IFC Person?
  
 ## Other positions
