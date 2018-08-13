@@ -9,8 +9,7 @@ A 3rd millennium climate finance platform sufficiently efficient to reach scienc
 ## Mission
 Develop a rapid prototype decentral climate finance transaction using cryptography.
  
-## Team
-Existing Team
+## Existing Team
 
 Alstair (founder, coordination and support)
 
